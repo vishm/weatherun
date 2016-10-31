@@ -2,8 +2,9 @@
 
 Url
 
-/v1/Weather/<country>/<city>
-
+```
+/v1/Weather/<country>/<city>    - path as per original impl
+```
 ## Prerequisites
 
 You will need [Leiningen][] 2.0.0 or above installed.
